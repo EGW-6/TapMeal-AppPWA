@@ -7,7 +7,7 @@ import ModalEliminacionPedido from "../components/pedidos/ModalEliminacionPedido
 import TablaPedido from "../components/pedidos/TablaPedido";
 import TarjetaPedido from "../components/pedidos/TarjetaPedido";
 import NotificacionOperacion from "../components/NotificacionOperacion";
-import CuadroBusquedas from "../components/busquedas/CuadroBusqueda";
+import CuadroBusquedas from "../components/busquedas/CuadroBusquedas";
 import Paginacion from "../components/ordenamiento/Paginacion";
 
 const Pedidos = () => {

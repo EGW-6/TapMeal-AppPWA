@@ -7,7 +7,7 @@ import ModalEliminacionSalsa from "../components/salsas/ModalEliminacionSalsa";
 import TablaSalsa from "../components/salsas/TablaSalsa";
 import TarjetaSalsa from "../components/salsas/TarjetaSalsa";
 import NotificacionOperacion from "../components/NotificacionOperacion";
-import CuadroBusquedas from "../components/busquedas/CuadroBusqueda";
+import CuadroBusquedas from "../components/busquedas/CuadroBusquedas";
 import Paginacion from "../components/ordenamiento/Paginacion";
 
 const Salsas = () => {

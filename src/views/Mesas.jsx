@@ -14,7 +14,7 @@ import NotificacionOperacion from "../components/NotificacionOperacion";
 import TablaMesa from "../components/mesas/TablaMesa";
 import ModalEdicionMesa from "../components/mesas/ModalEdicionMesa";
 import ModalEliminacionMesa from "../components/mesas/ModalEliminacionMesa";
-import CuadroBusquedas from "../components/busquedas/CuadroBusqueda";
+import CuadroBusquedas from "../components/busquedas/CuadroBusquedas";
 import Paginacion from "../components/ordenamiento/Paginacion";
 import TarjetaMesas from "../components/mesas/TarjetaMesas";
 import TarjetaMesaPOS from "../components/mesas/TarjetaMesaPOS";

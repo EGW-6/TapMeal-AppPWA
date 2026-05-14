@@ -10,7 +10,7 @@ import TablaPlatillos from "../components/platillos/TablaPlatillos";
 import TarjetaPlatillos from "../components/platillos/TarjetaPlatillos";
 
 import NotificacionOperacion from "../components/NotificacionOperacion";
-import CuadroBusquedas from "../components/busquedas/CuadroBusqueda";
+import CuadroBusquedas from "../components/busquedas/CuadroBusquedas";
 import Paginacion from "../components/ordenamiento/Paginacion";
 
 const Platillos = () => {

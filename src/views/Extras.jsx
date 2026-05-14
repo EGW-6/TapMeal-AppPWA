@@ -7,7 +7,7 @@ import TarjetaExtra from "../components/extras/TarjetaExtra";
 import ModalRegistroExtra from "../components/extras/ModalRegistroExtra";
 import ModalEdicionExtra from "../components/extras/ModalEdicionExtra";
 import ModalEliminacionExtra from "../components/extras/ModalEliminacionExtra";
-import CuadroBusquedas from "../components/busquedas/CuadroBusqueda";
+import CuadroBusquedas from "../components/busquedas/CuadroBusquedas";
 import Paginacion from "../components/ordenamiento/Paginacion";
 
 const Extras = () => {

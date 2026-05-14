@@ -7,7 +7,7 @@ import TablaClientes from "../components/clientes/TablaClientes";
 import TarjetaClientes from "../components/clientes/TarjetaClientes";
 import ModalEdicionClientes from "../components/clientes/ModalEdicionClientes";
 import ModalEliminacionClientes from "../components/clientes/ModalEliminacionClientes";
-import CuadroBusquedas from "../components/busquedas/CuadroBusqueda";
+import CuadroBusquedas from "../components/busquedas/CuadroBusquedas";
 import Paginacion from "../components/ordenamiento/Paginacion";
 
 const Clientes = () => {
